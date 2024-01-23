@@ -17,4 +17,4 @@ This repo contains sample solutions to the Interview Question of The Week series
     e) Language-Transcending infrastrucutre: CI/CD / Github Actions, Artifacts, Containers, Project Management
 
 ## Solutions
-Solutions & their respective puzzles will be linked here from the `/src/solutions` folder.
+Solutions & their respective puzzles will be linked here from the `/solutions` folders.

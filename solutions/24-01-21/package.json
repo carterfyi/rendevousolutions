@@ -1,0 +1,10 @@
+{
+  "name": "solution-1",
+  "version": "1.0.0",
+  "description": "IQOTW Sample Solution in RWC - January 24, 2024 Edition.",
+  "main": "solution-1.js",
+  "module": "solution-1.js",
+  "type": "module",
+  "author": "carter.fyi",
+  "license": "MIT"
+}
